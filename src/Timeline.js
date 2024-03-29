@@ -5,18 +5,22 @@ import KatrinaZell from './Headshots/KatrinaZell.png'
 import MichelleCody from './Headshots/MichelleCody.png'
 import DipenPatel from './Headshots/DipenPatel.png'
 import MaxineAttobrah from './Headshots/MaxineAttobrah.png'
-import MadelineStilley from './Headshots/MadelineStilley.jpg'
-import GraceTang from './Headshots/GraceTang.jpg'
-import CedricMoore from './Headshots/CedricMoore.jpg'
-import BrandonWeathers from './Headshots/BrandonWeathers.jpg'
-import SanjeevSingh from './Headshots/SanjeevSingh.jpg'
-import JonahEide from './Headshots/JonahEide.jpg'
-import AdelHassen from './Headshots/AdelHassen.jpg'
-import FarhadSaffaraval from './Headshots/FarhadSaffaraval.jpg'
-import KimberlyHayes from './Headshots/KimHayes.jpg'
-import BalwinderKaur from './Headshots/BalKaur.jpg'
-import SkyeToor from './Headshots/SkyeToor.jpg'
-import MattFein from './Headshots/MattFein.jpg'
+import MadelineStilley from './Headshots/MadelineStilley.png'
+import GraceTang from './Headshots/GraceTang.png'
+import CedricMoore from './Headshots/CedricMoore.png'
+import BrandonWeathers from './Headshots/BrandonWeathers.png'
+import SanjeevSingh from './Headshots/SanjeevSingh.png'
+import JonahEide from './Headshots/JonahEide.png'
+import AdelHassen from './Headshots/AdelHassen.png'
+import FarhadSaffaraval from './Headshots/FarhadSaffaraval.png'
+import KimberlyHayes from './Headshots/KimHayes.png'
+import BalwinderKaur from './Headshots/BalKaur.png'
+import SkyeToor from './Headshots/SkyeToor.png'
+import MattFein from './Headshots/MattFein.png'
+import EmilyPham from './Headshots/EmilyPham.png'
+import LilaZapata from './Headshots/LilaZapata.png'
+import BinuMatthew from './Headshots/BinuMatthew.png'
+import JoelKonitzer from './Headshots/JoelKonitzer.png'
 function Timeline() {
     return (
         <VerticalTimeline>
@@ -32,21 +36,6 @@ function Timeline() {
                 <h3 style={{color:"#000000"}} className="vertical-timeline-element-title">Katrina Zell</h3>
                 <h4 style={{color:"#000000"}} className="vertical-timeline-element-subtitle">Dandelion</h4>
                 <p style={{color:"#000000"}}>
-                    Job Description
-                </p>
-            </VerticalTimelineElement>
-            <VerticalTimelineElement
-                className="vertical-timeline-element--work"
-                date="May 17, 2023"
-                iconStyle={{background: '#ebd582', color: '#000000'}}
-                contentStyle={{background: '#ebd582', color: '#000000'}}
-
-                // icon={<WorkIcon />}
-            >
-                <img src={MichelleCody}/>
-                <h3 style={{color: "#000000"}} className="vertical-timeline-element-title">Michelle Cody</h3>
-                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Daisy</h4>
-                <p style={{color: "#000000"}}>
                     Job Description
                 </p>
             </VerticalTimelineElement>
@@ -261,56 +250,61 @@ function Timeline() {
             <VerticalTimelineElement
                 date="January 8th, 2024"
                 className="vertical-timeline-element--work"
-                iconStyle={{ background: '#ebd582', color: '#000000' }}
-                contentStyle={{ background: '#ebd582', color: '#000000' }}
+                iconStyle={{background: '#ebd582', color: '#000000'}}
+                contentStyle={{background: '#ebd582', color: '#000000'}}
 
                 // icon={<WorkIcon />}
             >
-                <h3 style={{color:"#000000"}} className="vertical-timeline-element-title">Lila Zapata</h3>
-                <h4 style={{color:"#000000"}} className="vertical-timeline-element-subtitle">Daisy</h4>
-                <p style={{color:"#000000"}}>
+                <img src={LilaZapata}/>
+                <h3 style={{color: "#000000"}} className="vertical-timeline-element-title">Lila Zapata</h3>
+                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Daisy</h4>
+                <p style={{color: "#000000"}}>
                     Job Description
                 </p>
             </VerticalTimelineElement>
             <VerticalTimelineElement
                 date="January 16th, 2024"
                 className="vertical-timeline-element--work"
-                iconStyle={{ background: '#b6b6b6', color: '#000000' }}
-                contentStyle={{ background: '#b6b6b6', color: '#000000' }}
+                iconStyle={{background: '#b6b6b6', color: '#000000'}}
+                contentStyle={{background: '#b6b6b6', color: '#000000'}}
 
                 // icon={<WorkIcon />}
             >
-                <h3 style={{color:"#000000"}} className="vertical-timeline-element-title">Joel Konitzer</h3>
-                <h4 style={{color:"#000000"}} className="vertical-timeline-element-subtitle">Unknown</h4>
-                <p style={{color:"#000000"}}>
+                <img src={JoelKonitzer}/>
+                <h3 style={{color: "#000000"}} className="vertical-timeline-element-title">Joel Konitzer</h3>
+                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Unknown</h4>
+                <p style={{color: "#000000"}}>
                     Job Description
                 </p>
             </VerticalTimelineElement>
             <VerticalTimelineElement
                 date="February 1, 2024"
                 className="vertical-timeline-element--work"
-                iconStyle={{ background: '#E35335', color: '#000000' }}
-                contentStyle={{ background: '#E35335', color: '#000000' }}
+                iconStyle={{background: '#E35335', color: '#000000'}}
+                contentStyle={{background: '#E35335', color: '#000000'}}
 
                 // icon={<WorkIcon />}
             >
-                <h3 style={{color:"#000000"}} className="vertical-timeline-element-title">Emily Pham</h3>
-                <h4 style={{color:"#000000"}} className="vertical-timeline-element-subtitle">Poppy</h4>
-                <p style={{color:"#000000"}}>
+                <img src={EmilyPham}/>
+                <h3 style={{color: "#000000"}} className="vertical-timeline-element-title">Emily Pham</h3>
+                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Poppy</h4>
+                <p style={{color: "#000000"}}>
                     Job Description
                 </p>
             </VerticalTimelineElement>
             <VerticalTimelineElement
                 date="February 26, 2024"
                 className="vertical-timeline-element--work"
-                iconStyle={{ background: '#B47CDA', color: '#000000' }}
-                contentStyle={{ background: '#B47CDA', color: '#000000' }}
+                iconStyle={{background: '#B47CDA', color: '#000000'}}
+                contentStyle={{background: '#B47CDA', color: '#000000'}}
+
 
                 // icon={<WorkIcon />}
             >
-                <h3 style={{color:"#000000"}} className="vertical-timeline-element-title">Binu Mathew</h3>
-                <h4 style={{color:"#000000"}} className="vertical-timeline-element-subtitle">Dahlia</h4>
-                <p style={{color:"#000000"}}>
+                <img src={BinuMatthew}/>
+                <h3 style={{color: "#000000"}} className="vertical-timeline-element-title">Binu Mathew</h3>
+                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Dahlia</h4>
+                <p style={{color: "#000000"}}>
                     Job Description
                 </p>
             </VerticalTimelineElement>
