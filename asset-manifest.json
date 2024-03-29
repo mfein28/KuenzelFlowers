@@ -1,20 +1,36 @@
 {
   "files": {
     "main.css": "/KuenzelFlowers/static/css/main.e5aaf54a.css",
-    "main.js": "/KuenzelFlowers/static/js/main.d3ed0392.js",
+    "main.js": "/KuenzelFlowers/static/js/main.860f5274.js",
     "static/js/453.62ef6f4f.chunk.js": "/KuenzelFlowers/static/js/453.62ef6f4f.chunk.js",
-    "static/media/MaxineAttobrah.png": "/KuenzelFlowers/static/media/MaxineAttobrah.6f0ddc19b57b5b485188.png",
+    "static/media/BalKaur.png": "/KuenzelFlowers/static/media/BalKaur.52ad8ae76e672ebc1c72.png",
+    "static/media/SkyeToor.png": "/KuenzelFlowers/static/media/SkyeToor.e5fe1ea843c28bafb8ad.png",
+    "static/media/BrandonWeathers.png": "/KuenzelFlowers/static/media/BrandonWeathers.da0e7c7958cc9bbfb795.png",
+    "static/media/FarhadSaffaraval.png": "/KuenzelFlowers/static/media/FarhadSaffaraval.9a0213dc097dfa4295e7.png",
+    "static/media/LilaZapata.png": "/KuenzelFlowers/static/media/LilaZapata.6a8f4dd78a27e2ea9bd3.png",
+    "static/media/KimHayes.png": "/KuenzelFlowers/static/media/KimHayes.669ef6ade71e2a213b7f.png",
+    "static/media/MadelineStilley.png": "/KuenzelFlowers/static/media/MadelineStilley.62ff3b4bc36756871b0d.png",
+    "static/media/JonahEide.png": "/KuenzelFlowers/static/media/JonahEide.9ac23bd421eef31dcd35.png",
     "static/media/KatrinaZell.png": "/KuenzelFlowers/static/media/KatrinaZell.61f97aec819aa9900433.png",
+    "static/media/BinuMatthew.png": "/KuenzelFlowers/static/media/BinuMatthew.312a664f1fcde449f3f1.png",
     "static/media/MichelleCody.png": "/KuenzelFlowers/static/media/MichelleCody.61ac9c1688090fa46d8b.png",
+    "static/media/MaxineAttobrah.png": "/KuenzelFlowers/static/media/MaxineAttobrah.989c2ae9314a35f827b5.png",
+    "static/media/GraceTang.png": "/KuenzelFlowers/static/media/GraceTang.120f58d71add04746183.png",
+    "static/media/EmilyPham.png": "/KuenzelFlowers/static/media/EmilyPham.3a538cff5df9717989dc.png",
+    "static/media/CedricMoore.png": "/KuenzelFlowers/static/media/CedricMoore.1881b9cb4d2a25702a7d.png",
+    "static/media/SanjeevSingh.png": "/KuenzelFlowers/static/media/SanjeevSingh.2d595b9ac055745b5d3e.png",
     "static/media/DipenPatel.png": "/KuenzelFlowers/static/media/DipenPatel.fbbe4e817c55e46c67b7.png",
+    "static/media/MattFein.png": "/KuenzelFlowers/static/media/MattFein.d55b9a41c00c31c7645a.png",
+    "static/media/JoelKonitzer.png": "/KuenzelFlowers/static/media/JoelKonitzer.68b6a5b037e0bd833a62.png",
+    "static/media/AdelHassen.png": "/KuenzelFlowers/static/media/AdelHassen.7a209193a7349fb71fe8.png",
     "static/media/logo.svg": "/KuenzelFlowers/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/KuenzelFlowers/index.html",
     "main.e5aaf54a.css.map": "/KuenzelFlowers/static/css/main.e5aaf54a.css.map",
-    "main.d3ed0392.js.map": "/KuenzelFlowers/static/js/main.d3ed0392.js.map",
+    "main.860f5274.js.map": "/KuenzelFlowers/static/js/main.860f5274.js.map",
     "453.62ef6f4f.chunk.js.map": "/KuenzelFlowers/static/js/453.62ef6f4f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e5aaf54a.css",
-    "static/js/main.d3ed0392.js"
+    "static/js/main.860f5274.js"
   ]
 }
