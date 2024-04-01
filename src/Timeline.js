@@ -4,6 +4,9 @@ import logo from "./logo.svg";
 import KatrinaZell from './Headshots/KatrinaZell.png'
 import MichelleCody from './Headshots/MichelleCody.png'
 import DipenPatel from './Headshots/DipenPatel.png'
+import JoshDunlap from './Headshots/JoshDunlap.png'
+import KenKratz from './Headshots/KenKratz.png'
+import WillSheriff from './Headshots/WillSheriff.png'
 import MaxineAttobrah from './Headshots/MaxineAttobrah.png'
 import MadelineStilley from './Headshots/MadelineStilley.png'
 import GraceTang from './Headshots/GraceTang.png'
@@ -28,6 +31,7 @@ import Tulip from './Flowers/tulip.png'
 import Dahlia from './Flowers/dahlia.png'
 import Rose from './Flowers/rose.png'
 import Flower from './Flowers/flower.png'
+import Sunflower from './Flowers/sunflower.png'
 function Timeline() {
     return (
         <VerticalTimeline>
@@ -236,8 +240,8 @@ function Timeline() {
                 <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">ML Engineer</h4>
             </VerticalTimelineElement>
             <VerticalTimelineElement
-                date={<h1>January 16th, 2024</h1>}
-                className="vertical-timeline-element--work"
+                date={<div style={{marginTop: -30}}><h1>January 16th, 2024</h1></div>}
+                    className="vertical-timeline-element--work"
                 iconStyle={{background: '#87CEEB', color: '#000000'}}
                 contentStyle={{background: '#87CEEB', color: '#000000'}}
                 icon={<div><img style={{margin: 4}} src={Flower}/><h4 style={{marginTop: 4}}><i></i></h4></div>}
@@ -247,8 +251,8 @@ function Timeline() {
                 <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">ML Engineer</h4>
             </VerticalTimelineElement>
             <VerticalTimelineElement
-                date={<h1>February 1, 2024</h1>}
-                className="vertical-timeline-element--work"
+                date={<div style={{marginTop: -30}}><h1>February 1, 2024</h1></div>}
+                    className="vertical-timeline-element--work"
                 iconStyle={{background: '#E35335', color: '#000000'}}
                 contentStyle={{background: '#E35335', color: '#000000'}}
                 icon={<div><img style={{height: 50, width: 50, margin: 4}} src={Poppy}/><h4 style={{marginTop: 4}}>
@@ -269,6 +273,37 @@ function Timeline() {
                 <img src={BinuMatthew}/>
                 <h3 style={{color: "#000000"}} className="vertical-timeline-element-title">Binu Mathew</h3>
                 <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Lead Engineer</h4>
+            </VerticalTimelineElement>
+            <VerticalTimelineElement
+                date={<div style={{marginTop: -30}}><h1>April 1st, 2024</h1></div>}
+                    className="vertical-timeline-element--work"
+                iconStyle={{background: '#87CEEB', color: '#000000'}}
+                contentStyle={{background: '#87CEEB', color: '#000000'}}
+                icon={<div><img style={{margin: 4}} src={Flower}/><h4 style={{marginTop: 4}}><i></i></h4></div>}
+            >
+                <img src={JoshDunlap}/>
+                <h3 style={{color: "#000000"}} className="vertical-timeline-element-title">Josh Dunlap</h3>
+                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Data Scientist</h4>
+            </VerticalTimelineElement>
+            <VerticalTimelineElement
+                className="vertical-timeline-element--work"
+                iconStyle={{background: '#87CEEB', color: '#000000'}}
+                contentStyle={{background: '#87CEEB', color: '#000000'}}
+                icon={<div><img style={{margin: 4}} src={Flower}/><h4 style={{marginTop: 4}}><i></i></h4></div>}
+            >
+                <img src={WillSheriff}/>
+                <h3 style={{color: "#000000"}} className="vertical-timeline-element-title">Will Sheriff</h3>
+                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Data Scientist</h4>
+            </VerticalTimelineElement>
+            <VerticalTimelineElement
+                className="vertical-timeline-element--work"
+                iconStyle={{background: '#0c9200', color: '#000000'}}
+                contentStyle={{background: '#0c9200', color: '#000000'}}
+                icon={<div><img style={{margin: 4}} src={Sunflower}/><h4 style={{marginLeft: -5, marginTop: 4}}><i>Sunflower</i></h4></div>}
+            >
+                <img src={KenKratz}/>
+                <h3 style={{color: "#000000"}} className="vertical-timeline-element-title">Ken Kratz</h3>
+                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Project Manager</h4>
             </VerticalTimelineElement>
 
         </VerticalTimeline>
