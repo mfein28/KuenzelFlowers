@@ -202,9 +202,9 @@ function Timeline() {
             <VerticalTimelineElement
                 className="vertical-timeline-element--work"
                 date={<div style={{marginTop: -30}}><h1>November 14, 2022</h1></div>}
-                iconStyle={{background: '#87CEEB', color: '#000000'}}
-                contentStyle={{background: '#87CEEB', color: '#000000'}}
-                icon={<div><img style={{margin: 4}} src={Flower}/><h4 style={{marginTop: 4}}><i></i></h4></div>}
+                iconStyle={{background: '#ebd582', color: '#000000'}}
+                contentStyle={{background: '#ebd582', color: '#000000'}}
+                icon={<div><img style={{margin: 4}} src={Daisy}/><h4 style={{marginTop: 4}}><i>Daisy</i></h4></div>}
             >
                 <img style={{height: 112, width: 105}} src={ArjunPaudel}/>
                 <h3 style={{color: "#000000"}} className="vertical-timeline-element-title">Arjun Paudel</h3>
@@ -281,9 +281,11 @@ function Timeline() {
             <VerticalTimelineElement
                 className="vertical-timeline-element--work"
                 date={<div style={{marginTop: -30}}><h1>June 12, 2023</h1></div>}
-                        iconStyle={{background: '#87CEEB', color: '#000000'}}
-                contentStyle={{background: '#87CEEB', color: '#000000'}}
-                icon={<div><img style={{margin: 4}} src={Flower}/><h4 style={{marginTop: 4}}><i></i></h4></div>}
+                        iconStyle={{background: '#E35335', color: '#000000'}}
+                contentStyle={{background: '#E35335', color: '#000000'}}
+                icon={<div><img style={{height: 50, width: 50, margin: 4}} src={Poppy}/><h4 style={{marginTop: 4}}>
+                    <i>Poppy</i></h4></div>}
+                // icon={<WorkIcon/>}
             >
                 <img src={MaxineAttobrah}/>
                 <h3 style={{color: "#000000"}} className="vertical-timeline-element-title">Maxine Attobrah</h3>
@@ -293,10 +295,9 @@ function Timeline() {
             <VerticalTimelineElement
                 className="vertical-timeline-element--work"
                 date={<div style={{marginTop: -30}}><h1>July 16, 2023</h1></div>}
-                        iconStyle={{background: '#ebd582', color: '#000000'}}
+                iconStyle={{background: '#ebd582', color: '#000000'}}
                 contentStyle={{background: '#ebd582', color: '#000000'}}
                 icon={<div><img style={{margin: 4}} src={Daisy}/><h4 style={{marginTop: 4}}><i>Daisy</i></h4></div>}
-                // icon={<WorkIcon/>}
             >
                 <img src={MadelineStilley}/>
                 <h3 style={{color: "#000000"}} className="vertical-timeline-element-title">Madeline Stilley</h3>
