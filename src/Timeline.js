@@ -57,10 +57,10 @@ function Timeline() {
             <VerticalTimelineElement
                 className="vertical-timeline-element--work"
                 date={<div style={{marginTop: -30}}><h1>November 11, 2019</h1></div>}
-                iconStyle={{background: '#87CEEB', color: '#000000'}}
-                contentStyle={{background: '#87CEEB', color: '#000000'}}
-                icon={<div><img style={{margin: 4}} src={Flower}/><h4 style={{marginTop: 4}}><i></i></h4></div>}
-            >
+                iconStyle={{background: '#E35335', color: '#000000'}}
+                contentStyle={{background: '#E35335', color: '#000000'}}
+                icon={<div><img style={{height: 50, width: 50, margin: 4}} src={Poppy}/><h4 style={{marginTop: 4}}>
+                    <i>Poppy</i></h4></div>}>
                 <img style={{height: 112, width: 105}} src={ElenaKuenzel}/>
                 <h3 style={{color: "#000000"}} className="vertical-timeline-element-title">Elena Kuenzel</h3>
                 <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Cheif Scientist</h4>
@@ -75,6 +75,17 @@ function Timeline() {
             >
                 <img style={{height: 112, width: 105}} src={AnaCarlaCosta}/>
                 <h3 style={{color: "#000000"}} className="vertical-timeline-element-title">Ana Carla Costa</h3>
+                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Senior Lead Scientist</h4>
+            </VerticalTimelineElement>
+            <VerticalTimelineElement
+                className="vertical-timeline-element--work"
+                date={<div style={{marginTop: -30}}><h1>May 17, 2021</h1></div>}
+                iconStyle={{background: '#ebd582', color: '#000000'}}
+                contentStyle={{background: '#ebd582', color: '#000000'}}
+                icon={<div><img style={{margin: 4}} src={Daisy}/><h4 style={{marginTop: 4}}><i>Daisy</i></h4></div>}
+            >
+                <img style={{height: 112, width: 105}} src={MichelleCody}/>
+                <h3 style={{color: "#000000"}} className="vertical-timeline-element-title">Michelle Cody</h3>
                 <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Senior Lead Scientist</h4>
             </VerticalTimelineElement>
             <VerticalTimelineElement
@@ -132,18 +143,6 @@ function Timeline() {
                 <h3 style={{color: "#000000"}} className="vertical-timeline-element-title">Alec Crowell</h3>
                 <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Lead Scientist</h4>
             </VerticalTimelineElement>
-            <VerticalTimelineElement
-                className="vertical-timeline-element--work"
-                date={<div style={{marginTop: -30}}><h1>May 17, 2022</h1></div>}
-                iconStyle={{background: '#ebd582', color: '#000000'}}
-                contentStyle={{background: '#ebd582', color: '#000000'}}
-                icon={<div><img style={{margin: 4}} src={Daisy}/><h4 style={{marginTop: 4}}><i>Daisy</i></h4></div>}
-            >
-                <img style={{height: 112, width: 105}} src={MichelleCody}/>
-                <h3 style={{color: "#000000"}} className="vertical-timeline-element-title">Michelle Cody</h3>
-                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Senior Lead Scientist</h4>
-            </VerticalTimelineElement>
-
             <VerticalTimelineElement
                 className="vertical-timeline-element--work"
                 date={<div style={{marginTop: -30}}><h1>August 1, 2022</h1></div>}
