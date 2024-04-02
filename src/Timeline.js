@@ -124,9 +124,9 @@ function Timeline() {
             <VerticalTimelineElement
                 className="vertical-timeline-element--work"
                 date={<div style={{marginTop: -30}}><h1>April 1, 2022</h1></div>}
-                iconStyle={{background: '#87CEEB', color: '#000000'}}
-                contentStyle={{background: '#87CEEB', color: '#000000'}}
-                icon={<div><img style={{margin: 4}} src={Flower}/><h4 style={{marginTop: 4}}><i></i></h4></div>}
+                iconStyle={{background: '#0c9200', color: '#000000'}}
+                contentStyle={{background: '#0c9200', color: '#000000'}}
+                icon={<div><img style={{margin: 4}} src={Sunflower}/><h4 style={{marginLeft: -5, marginTop: 4}}><i>Sunflower</i></h4></div>}
             >
                 <img style={{height: 112, width: 105}} src={MattEpstein}/>
                 <h3 style={{color: "#000000"}} className="vertical-timeline-element-title">Matt Epstein</h3>
@@ -498,7 +498,7 @@ function Timeline() {
             >
                 <img src={JoshDunlap}/>
                 <h3 style={{color: "#000000"}} className="vertical-timeline-element-title">Josh Dunlap</h3>
-                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Data Scientist</h4>
+                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Senior Lead Scientist</h4>
             </VerticalTimelineElement>
             <VerticalTimelineElement
                 className="vertical-timeline-element--work"
