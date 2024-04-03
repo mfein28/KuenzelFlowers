@@ -63,7 +63,7 @@ function Timeline() {
                     <i>Poppy</i></h4></div>}>
                 <img style={{height: 112, width: 105}} src={ElenaKuenzel}/>
                 <h3 style={{color: "#000000"}} className="vertical-timeline-element-title">Elena Kuenzel</h3>
-                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Cheif Scientist</h4>
+                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Chief Data Scientist</h4>
             </VerticalTimelineElement>
             <VerticalTimelineElement
                 className="vertical-timeline-element--work"
@@ -75,7 +75,7 @@ function Timeline() {
             >
                 <img style={{height: 112, width: 105}} src={AnaCarlaCosta}/>
                 <h3 style={{color: "#000000"}} className="vertical-timeline-element-title">Ana Carla Costa</h3>
-                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Senior Lead Scientist</h4>
+                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Senior Lead Data Scientist</h4>
             </VerticalTimelineElement>
             <VerticalTimelineElement
                 className="vertical-timeline-element--work"
@@ -86,7 +86,7 @@ function Timeline() {
             >
                 <img style={{height: 112, width: 105}} src={MichelleCody}/>
                 <h3 style={{color: "#000000"}} className="vertical-timeline-element-title">Michelle Cody</h3>
-                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Senior Lead Scientist</h4>
+                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Senior Lead Data Scientist</h4>
             </VerticalTimelineElement>
             <VerticalTimelineElement
                 className="vertical-timeline-element--work"
@@ -97,7 +97,7 @@ function Timeline() {
             >
                 <img style={{height: 112, width: 105}} src={SamirYuja}/>
                 <h3 style={{color: "#000000"}} className="vertical-timeline-element-title">Samir Yuja</h3>
-                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Lead Technologist</h4>
+                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Lead Data Technologist</h4>
             </VerticalTimelineElement>
             <VerticalTimelineElement
                 className="vertical-timeline-element--work"
@@ -108,7 +108,7 @@ function Timeline() {
             >
                 <img style={{height: 112, width: 105}} src={VincentGlorioso}/>
                 <h3 style={{color: "#000000"}} className="vertical-timeline-element-title">Vincent Glorioso</h3>
-                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Lead Scientist</h4>
+                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Lead Data Scientist</h4>
             </VerticalTimelineElement>
             <VerticalTimelineElement
                 className="vertical-timeline-element--work"
@@ -119,7 +119,7 @@ function Timeline() {
             >
                 <img style={{height: 112, width: 105}} src={BrandonKonkel}/>
                 <h3 style={{color: "#000000"}} className="vertical-timeline-element-title">Brandon Konkel</h3>
-                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Lead Engineer</h4>
+                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Lead Data Engineer</h4>
             </VerticalTimelineElement>
             <VerticalTimelineElement
                 className="vertical-timeline-element--work"
@@ -130,7 +130,7 @@ function Timeline() {
             >
                 <img style={{height: 112, width: 105}} src={MattEpstein}/>
                 <h3 style={{color: "#000000"}} className="vertical-timeline-element-title">Matt Epstein</h3>
-                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Senior Lead Scientist</h4>
+                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Senior Lead Data Scientist</h4>
             </VerticalTimelineElement>
             <VerticalTimelineElement
                 className="vertical-timeline-element--work"
@@ -141,7 +141,7 @@ function Timeline() {
             >
                 <img style={{height: 112, width: 105}} src={AlecCrowell}/>
                 <h3 style={{color: "#000000"}} className="vertical-timeline-element-title">Alec Crowell</h3>
-                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Lead Scientist</h4>
+                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Lead Data Scientist</h4>
             </VerticalTimelineElement>
             <VerticalTimelineElement
                 className="vertical-timeline-element--work"
@@ -152,7 +152,7 @@ function Timeline() {
             >
                 <img style={{height: 112, width: 105}} src={ChrisFalter}/>
                 <h3 style={{color: "#000000"}} className="vertical-timeline-element-title">Chris Falter</h3>
-                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Senior Lead Scientist</h4>
+                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Senior Lead Data Scientist</h4>
             </VerticalTimelineElement>
             <VerticalTimelineElement
                 className="vertical-timeline-element--work"
@@ -162,7 +162,7 @@ function Timeline() {
             >
                 <img style={{height: 112, width: 105}} src={JeffGross}/>
                 <h3 style={{color: "#000000"}} className="vertical-timeline-element-title">Jeff Gross</h3>
-                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Senior Lead Scientist</h4>
+                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Lead Data Engineer</h4>
             </VerticalTimelineElement>
             <VerticalTimelineElement
                 className="vertical-timeline-element--work"
@@ -172,7 +172,7 @@ function Timeline() {
             >
                 <img style={{height: 112, width: 105}} src={DanielPuskas}/>
                 <h3 style={{color: "#000000"}} className="vertical-timeline-element-title">Daniel Puskas</h3>
-                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Senior Lead Scientist</h4>
+                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Data Technologist</h4>
             </VerticalTimelineElement>
             <VerticalTimelineElement
                 className="vertical-timeline-element--work"
@@ -185,7 +185,7 @@ function Timeline() {
 
                 <img style={{height: 112, width: 105}} src={MorganJacobi}/>
                 <h3 style={{color: "#000000"}} className="vertical-timeline-element-title">Morgan Jacobi</h3>
-                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Senior Lead Scientist</h4>
+                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Data Scientist</h4>
             </VerticalTimelineElement>
             <VerticalTimelineElement
                 className="vertical-timeline-element--work"
@@ -197,7 +197,7 @@ function Timeline() {
             >
                 <img style={{height: 112, width: 105}} src={KarlSchliep}/>
                 <h3 style={{color: "#000000"}} className="vertical-timeline-element-title">Karl Schliep</h3>
-                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Senior Lead Scientist</h4>
+                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Senior Lead Data Scientist</h4>
             </VerticalTimelineElement>
             <VerticalTimelineElement
                 className="vertical-timeline-element--work"
@@ -208,7 +208,7 @@ function Timeline() {
             >
                 <img style={{height: 112, width: 105}} src={ArjunPaudel}/>
                 <h3 style={{color: "#000000"}} className="vertical-timeline-element-title">Arjun Paudel</h3>
-                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Senior Lead Scientist</h4>
+                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Lead Data Engineer</h4>
             </VerticalTimelineElement>
             <VerticalTimelineElement
                 className="vertical-timeline-element--work"
@@ -219,7 +219,7 @@ function Timeline() {
             >
                 <img style={{height: 112, width: 105}} src={LindsayLienau}/>
                 <h3 style={{color: "#000000"}} className="vertical-timeline-element-title">Lindsay Lienau</h3>
-                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Senior Lead Scientist</h4>
+                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Lead Data Scientist</h4>
             </VerticalTimelineElement>
             <VerticalTimelineElement
                 className="vertical-timeline-element--work"
@@ -231,7 +231,7 @@ function Timeline() {
             >
                 <img style={{height: 112, width: 105}} src={TaylorHogge}/>
                 <h3 style={{color: "#000000"}} className="vertical-timeline-element-title">Taylor Hogge</h3>
-                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Senior Lead Scientist</h4>
+                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Lead Data Scientist</h4>
             </VerticalTimelineElement>
             <VerticalTimelineElement
                 className="vertical-timeline-element--work"
@@ -242,7 +242,7 @@ function Timeline() {
             >
                 <img style={{height: 112, width: 105}} src={SebastianRanasinghe}/>
                 <h3 style={{color: "#000000"}} className="vertical-timeline-element-title">Sebastian Ranasinghe</h3>
-                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Senior Lead Scientist</h4>
+                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Data Engineer</h4>
             </VerticalTimelineElement>
             <VerticalTimelineElement
                 className="vertical-timeline-element--work"
@@ -253,7 +253,7 @@ function Timeline() {
             >
                 <img style={{height: 112, width: 105}} src={RebeccaKurz}/>
                 <h3 style={{color: "#000000"}} className="vertical-timeline-element-title">Rebecca Kurz</h3>
-                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Senior Lead Scientist</h4>
+                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Senior Lead Technologist</h4>
             </VerticalTimelineElement>
             <VerticalTimelineElement
                 className="vertical-timeline-element--work"
@@ -265,14 +265,15 @@ function Timeline() {
             >
                 <img src={KatrinaZell} alt="My Image"/>
                 <h3 style={{color: "#000000"}} className="vertical-timeline-element-title">Katrina Zell</h3>
-                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Data Scientist</h4>
+                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Lead Data Scientist</h4>
             </VerticalTimelineElement>
             <VerticalTimelineElement
                 className="vertical-timeline-element--work"
                 date={<div style={{marginTop: -30}}><h1>June 6, 2023</h1></div>}
-                        iconStyle={{background: '#87CEEB', color: '#000000'}}
-                contentStyle={{background: '#87CEEB', color: '#000000'}}
-                icon={<div><img style={{margin: 4}} src={Flower}/><h4 style={{marginTop: 4}}><i></i></h4></div>}
+                iconStyle={{background: '#FF007F', color: '#000000'}}
+                contentStyle={{background: '#FF007F', color: '#000000'}}
+                icon={<div><img style={{height: 50, width: 50, margin: 4}} src={Rose}/><h4 style={{marginTop: 4}}>
+                    <i>Rose</i></h4></div>}
             >
                 <img src={DipenPatel}/>
                 <h3 style={{color: "#000000"}} className="vertical-timeline-element-title">Dipen Patel</h3>
@@ -339,7 +340,7 @@ function Timeline() {
             >
                 <img src={BrandonWeathers}/>
                 <h3 style={{color: "#000000"}} className="vertical-timeline-element-title">Brandon Weathers</h3>
-                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Lead Scientist</h4>
+                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Lead Data Scientist</h4>
 
             </VerticalTimelineElement>
             <VerticalTimelineElement
@@ -351,8 +352,7 @@ function Timeline() {
             >
                 <img src={SanjeevSingh}/>
                 <h3 style={{color: "#000000"}} className="vertical-timeline-element-title">Sanjeev Singh</h3>
-                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Lead Data
-                    Engineer</h4>
+                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Lead Data Engineer</h4>
 
             </VerticalTimelineElement>
             <VerticalTimelineElement
@@ -365,8 +365,7 @@ function Timeline() {
             >
                 <img src={JonahEide}/>
                 <h3 style={{color: "#000000"}} className="vertical-timeline-element-title">Jonah Eide</h3>
-                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Sr. Data Engineer</h4>
-
+                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Lead Data Engineer</h4>
             </VerticalTimelineElement>
             <VerticalTimelineElement
                 className="vertical-timeline-element--work"
@@ -413,8 +412,7 @@ function Timeline() {
             >
                 <img src={BalwinderKaur}/>
                 <h3 style={{color: "#000000"}} className="vertical-timeline-element-title">Bal Kaur</h3>
-                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Lead Data
-                    Engineer</h4>
+                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Lead Data Engineer</h4>
 
             </VerticalTimelineElement>
             <VerticalTimelineElement
@@ -463,7 +461,7 @@ function Timeline() {
             >
                 <img src={JoelKonitzer}/>
                 <h3 style={{color: "#000000"}} className="vertical-timeline-element-title">Joel Konitzer</h3>
-                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">ML Engineer</h4>
+                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Lead Data Scientist</h4>
             </VerticalTimelineElement>
             <VerticalTimelineElement
                 date={<div style={{marginTop: -30}}><h1>February 1, 2024</h1></div>}
@@ -487,7 +485,7 @@ function Timeline() {
             >
                 <img src={BinuMatthew}/>
                 <h3 style={{color: "#000000"}} className="vertical-timeline-element-title">Binu Mathew</h3>
-                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Lead Engineer</h4>
+                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Senior Lead Data Engineer</h4>
             </VerticalTimelineElement>
             <VerticalTimelineElement
                 date={<div style={{marginTop: -30}}><h1>April 1st, 2024</h1></div>}
@@ -498,7 +496,7 @@ function Timeline() {
             >
                 <img src={JoshDunlap}/>
                 <h3 style={{color: "#000000"}} className="vertical-timeline-element-title">Josh Dunlap</h3>
-                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Senior Lead Scientist</h4>
+                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Senior Lead Data Scientist</h4>
             </VerticalTimelineElement>
             <VerticalTimelineElement
                 className="vertical-timeline-element--work"
@@ -518,7 +516,7 @@ function Timeline() {
             >
                 <img src={KenKratz}/>
                 <h3 style={{color: "#000000"}} className="vertical-timeline-element-title">Ken Kratz</h3>
-                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Project Manager</h4>
+                <h4 style={{color: "#000000"}} className="vertical-timeline-element-subtitle">Data Technologist</h4>
             </VerticalTimelineElement>
 
         </VerticalTimeline>
