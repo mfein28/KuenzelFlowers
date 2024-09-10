@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/KuenzelFlowers/static/css/main.e5aaf54a.css",
-    "main.js": "/KuenzelFlowers/static/js/main.18cc7c54.js",
+    "main.js": "/KuenzelFlowers/static/js/main.acf80cb3.js",
     "static/js/453.4802c0b2.chunk.js": "/KuenzelFlowers/static/js/453.4802c0b2.chunk.js",
     "static/media/map.png": "/KuenzelFlowers/static/media/map.fe141be1f1a1c7a9f944.png",
     "static/media/DanielLelusic.png": "/KuenzelFlowers/static/media/DanielLelusic.5619ebda985ff0e9bb06.png",
@@ -61,11 +61,11 @@
     "static/media/logo.svg": "/KuenzelFlowers/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/KuenzelFlowers/index.html",
     "main.e5aaf54a.css.map": "/KuenzelFlowers/static/css/main.e5aaf54a.css.map",
-    "main.18cc7c54.js.map": "/KuenzelFlowers/static/js/main.18cc7c54.js.map",
+    "main.acf80cb3.js.map": "/KuenzelFlowers/static/js/main.acf80cb3.js.map",
     "453.4802c0b2.chunk.js.map": "/KuenzelFlowers/static/js/453.4802c0b2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e5aaf54a.css",
-    "static/js/main.18cc7c54.js"
+    "static/js/main.acf80cb3.js"
   ]
 }
