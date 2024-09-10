@@ -52,9 +52,8 @@ export default function Header(props) {
             </HideOnScroll>
             <Toolbar />
             <Container>
-                <Box sx={{ my: 2 }}>
-                    <Timeline/>
-                </Box>
+                <Tabs/>
+
             </Container>
         </React.Fragment>
     );
