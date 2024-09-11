@@ -1,10 +1,12 @@
 {
   "files": {
     "main.css": "/KuenzelFlowers/static/css/main.e5aaf54a.css",
-    "main.js": "/KuenzelFlowers/static/js/main.acf80cb3.js",
+    "main.js": "/KuenzelFlowers/static/js/main.20010eb1.js",
     "static/js/453.4802c0b2.chunk.js": "/KuenzelFlowers/static/js/453.4802c0b2.chunk.js",
     "static/media/map.png": "/KuenzelFlowers/static/media/map.fe141be1f1a1c7a9f944.png",
     "static/media/DanielLelusic.png": "/KuenzelFlowers/static/media/DanielLelusic.5619ebda985ff0e9bb06.png",
+    "static/media/AndrewAmaechi.png": "/KuenzelFlowers/static/media/AndrewAmaechi.29ade2ea4bec43fc6637.png",
+    "static/media/BrandiSkanes.png": "/KuenzelFlowers/static/media/BrandiSkanes.f0f10777e71787dec6ad.png",
     "static/media/VincentGlorioso.png": "/KuenzelFlowers/static/media/VincentGlorioso.67bc34abca00b1fe7c21.png",
     "static/media/MorganJacobi.png": "/KuenzelFlowers/static/media/MorganJacobi.71175059548bf06850e0.png",
     "static/media/LindsayLienau.png": "/KuenzelFlowers/static/media/LindsayLienau.9d5974cf9cf5d513a3ac.png",
@@ -21,6 +23,8 @@
     "static/media/RebeccaKurz.png": "/KuenzelFlowers/static/media/RebeccaKurz.4629347606ba5d4500e0.png",
     "static/media/BrandonKonkel.png": "/KuenzelFlowers/static/media/BrandonKonkel.dc79552212ca19675175.png",
     "static/media/DanielPuskas.png": "/KuenzelFlowers/static/media/DanielPuskas.21f7a3f0e46b070e05d5.png",
+    "static/media/MandyPaquin.png": "/KuenzelFlowers/static/media/MandyPaquin.f5f13b3de0219a166438.png",
+    "static/media/KerryGarrett.png": "/KuenzelFlowers/static/media/KerryGarrett.7955d3ae490b3d5e7b6e.png",
     "static/media/AlecCrowell.png": "/KuenzelFlowers/static/media/AlecCrowell.87a6c123d335494503ee.png",
     "static/media/BalKaur.png": "/KuenzelFlowers/static/media/BalKaur.52ad8ae76e672ebc1c72.png",
     "static/media/SkyeToor.png": "/KuenzelFlowers/static/media/SkyeToor.e5fe1ea843c28bafb8ad.png",
@@ -61,11 +65,11 @@
     "static/media/logo.svg": "/KuenzelFlowers/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/KuenzelFlowers/index.html",
     "main.e5aaf54a.css.map": "/KuenzelFlowers/static/css/main.e5aaf54a.css.map",
-    "main.acf80cb3.js.map": "/KuenzelFlowers/static/js/main.acf80cb3.js.map",
+    "main.20010eb1.js.map": "/KuenzelFlowers/static/js/main.20010eb1.js.map",
     "453.4802c0b2.chunk.js.map": "/KuenzelFlowers/static/js/453.4802c0b2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e5aaf54a.css",
-    "static/js/main.acf80cb3.js"
+    "static/js/main.20010eb1.js"
   ]
 }
